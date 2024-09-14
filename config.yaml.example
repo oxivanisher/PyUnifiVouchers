@@ -1,7 +1,5 @@
 unifi:
   base_url: "https://10.5.20.10:8443"
-  username: "admin"
-  password: "password"
   site: "default"
 
 pdf:
