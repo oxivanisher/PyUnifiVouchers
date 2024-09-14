@@ -1,0 +1,13 @@
+unifi:
+  base_url: "https://10.5.20.10:8443"
+  username: "admin"
+  password: "password"
+  site: "default"
+
+pdf:
+  ssid: "MyHotelWifi"
+  hotel_name: "Hotel Sunshine"
+  output_file: "vouchers.pdf"
+  columns: 2
+  enable_qr_code: true  # Switch for enabling/disabling QR code generation
+  enable_name_output: true # Show the name
