@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 5050
 
 # Define the command to run the application
-CMD ["python", "main.py", "--server", "--host=0.0.0.0"]
+CMD ["python", "main.py", "--server"]
